@@ -1,6 +1,9 @@
 import React, {useState} from 'react';
 
-//ueestate => 동적으로 처리하게 해줄수있는 함수
+//ueestate => 동적으로 처리하게 해줄수있는 함수 
+
+//동적값을 state , 이런걸 처리하기 위해서 useState 를 사용함
+
 const Counter = () => {
     //첫번째 num 0이라는 기본값을 같는 num
     // 두번째 인자인 setNumber  앞에있는값을 세팅할수있음
