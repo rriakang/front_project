@@ -3,8 +3,8 @@ import React from "react";
 import about from "../assets/img/about.jpg";
 
 const introText = {
-    title: "port developer",
-    desc: ["talent is", "found at the end of the", "effort"],
+    title: "data engineer",
+    desc: ["'AI' is", "most important", "to analysis data"],
 };
 
 
@@ -45,3 +45,5 @@ const Intro = () => {
         </section>
     );
 };
+
+export default Intro;
